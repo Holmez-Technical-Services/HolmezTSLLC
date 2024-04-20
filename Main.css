@@ -9,38 +9,76 @@
 
 #main-Logo {
     text-decoration:none;
+    position: absolute;
     color:gray;
-    position:absolute;
-    width: 15%;
-    left:0%;
-    top:-50%;
+    width: 10%;
+    left:2.5%;
+    top:20%;
 }
 
-#main-Page{
-    left:0;
-    line-height:0px;
-    margin-top:-0px;
-    position: fixed;
-    text-align: center;
-    top: 5%;
-    width: 100%;
-}
-
-#about {
+#head-page {
     color:black;
     text-align:center;
     margin-left: 90%;
     margin-top: 1.5%;
 }
 
+#home {
+    border: 2.5px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    font-size: 30px;
+    left: 25%;
+    top: 0%;
+    width: 4%;
+}
+
+#app-development {
+    border: 2.5px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    font-size: 30px;
+    width: 11.7%;
+    left: 30%;
+    top: 0%;
+}
+
+#tech-support {
+    border: 2.5px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    font-size: 30px;
+    width: 8.7%;
+    left: 42.7%;
+    top: 0%;
+}
+
+#about {
+    border: 2.5px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    font-size: 30px;
+    width: 6.5%;
+    left: 52.5%;
+    top: 0%;
+}
+
+#contact-us {
+    border: 2.5px;
+    border-style: solid;
+    border-color: black;
+    position: absolute;
+    font-size: 30px;
+    width: 7.3%;
+    left: 60%;
+    top: 0%;
+}
+
 a {
     text-decoration:none;
     color:black;
-}
-
-strong {
-    border: 2.5px;
-    border-style: solid;
-    border-color:gray;
-    font-size:50px;
 }
